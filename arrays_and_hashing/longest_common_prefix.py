@@ -1,4 +1,4 @@
-# Leetcode Problem: 14. Longest Common Prefix
+# Leetcode Problem: 14: Longest Common Prefix
 # https://leetcode.com/problems/longest-common-prefix/
 
 class Solution(object):
